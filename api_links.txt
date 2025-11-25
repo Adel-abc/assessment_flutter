@@ -1,0 +1,12 @@
+https://librarysystemflutterteam.runasp.net/api/Registration/SignIn
+https://librarysystemflutterteam.runasp.net/api/Registration/Signup
+https://librarysystemflutterteam.runasp.net/api/Book/GetBooks
+https://librarysystemflutterteam.runasp.net/api/Book/GetBookByName?Bookname=$name
+
+
+{
+    "email": "u1@gmail.com",
+    "password": "123123123",
+    "name": "dola",
+    "phoneNumber": "01234567989"
+}
